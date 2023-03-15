@@ -1,0 +1,16 @@
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 2.5fr 1fr;
+    column-gap: 5px;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: cursive;
+}
+
+.links {
+    color: black;
+    text-decoration: none;
+}
